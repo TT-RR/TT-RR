@@ -9,8 +9,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=TT-RR&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## ![image](https://user-images.githubusercontent.com/118715539/212600026-6cba23e1-f66b-4dd3-91f5-13617d5c960e.png)
- my Skills 
+## ⚡my Skills 
 [![My Skills](https://skillicons.dev/icons?i=instagram,c,cs,html,css,bootstrap,github,discord,androidstudio,dart,flutter,firebase&perline=6)](https://skillicons.dev)
 
 
