@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=TT-RR&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
 # my Skills 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,azure,bootstrap,androidstudio,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram,c,cs,html,css,bootstrap,github,discord,androidstudio,dart,flutter,firebase&perline=3)](https://skillicons.dev)
 
 #### Top Repositories
 
