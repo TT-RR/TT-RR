@@ -10,7 +10,7 @@
 
 
 ## ⚡my Skills 
-[![My Skills](https://skillicons.dev/icons?i=instagram,c,cs,html,css,bootstrap,github,discord,androidstudio,dart,flutter,firebase&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,c,cs,html,css,bootstrap,github,discord,androidstudio,dart,flutter,firebase&perline=6)](https://skillicons.dev)
 
 
 ## Top Repositories
