@@ -14,11 +14,11 @@
 
 
 ## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TT-RR&repo=supporterz-hackthon-vol9)](https://github.com/TT-RR/supporterz-hackthon-vol9)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TT-RR&repo=flutter-chat-app)](https://github.com/TT-RR/flutter-chat-app)
+[![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=TT-RR&repo=supporterz-hackthon-vol9)](https://github.com/TT-RR/supporterz-hackthon-vol9)
+[![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=TT-RR&repo=flutter-chat-app)](https://github.com/TT-RR/flutter-chat-app)
 
 
 ## reference README.md
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
+[![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=ryo-ma&repo=github-profile-trophy&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
 [![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=tandpfun&repo=skill-icons)](https://github.com/tandpfun/skill-icons)
