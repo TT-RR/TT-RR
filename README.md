@@ -11,8 +11,10 @@
 
 
 ## 📛my Skills 
-[![My Skills](https://skillicons.dev/icons?i=jquery,c,cs,html,css,bootstrap,github,go,androidstudio,dart,flutter,firebase&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,c,cs,html,css,go,dart,flutter,firebase&perline=6)](https://skillicons.dev)
 
+## my tools
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,github,androidstudio,firebase&perline=6)](https://skillicons.dev)
 
 ## ⚡Top Repositories
 [![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=TT-RR&repo=supporterz-hackthon-vol10)](https://github.com/TT-RR/supporterz-hackthon-vol10)
