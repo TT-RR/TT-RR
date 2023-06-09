@@ -17,8 +17,8 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,bootstrap,firebase,docker,sqlite,figma&perline=6)](https://skillicons.dev)
 
 ## ⚡Top Repositories
-[![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=TT-RR&repo=supporterz-hackthon-vol10)](https://github.com/TT-RR/supporterz-hackthon-vol10)
-[![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=TT-RR&repo=todo_app)](https://github.com/TT-RR/todo_app)
+[![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=TT-RR&repo=kopipe-kun)](https://github.com/TT-RR/kopipe-kun)
+[![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=TT-RR&repo=go-rest-api)](https://github.com/TT-RR/go-rest-api))
 
 
 ## reference README.md
