@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cs,html,css,jquery,go,flutter,java,react&perline=6)](https://skillicons.dev)
 
 ## 🛠my tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,firebase,docker,sqlite,figma,eclipse,postgres&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,firebase,docker,figma,eclipse,sqlite,postgres,postman&perline=6)](https://skillicons.dev)
 
 ## ⚡Top Repositories
 [![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=TT-RR&repo=kopipe-kun)](https://github.com/TT-RR/kopipe-kun)
