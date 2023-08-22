@@ -11,7 +11,7 @@
 
 
 ## 📛my Skills 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,html,css,js,go,flutter,java,react&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,html,css,js,php,go,flutter,java,react&perline=6)](https://skillicons.dev)
 
 ## 🛠my tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,firebase,docker,figma,eclipse,sqlite,postgres,mysql,postman&perline=6)](https://skillicons.dev)
