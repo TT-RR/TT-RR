@@ -1,6 +1,6 @@
 <h1>my profile</h1>
 <style>h1 {
-  text-aline: center;
+  text-align: center;
 }</style>
 
 ## 📈 my stats
