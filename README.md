@@ -9,7 +9,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=TT-RR&theme=chalk&column=5&margin-w=5&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📛my Skills 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,html,css,js,php,go,flutter,java,react&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,html,css,js,django,py,php,go,flutter,java,react&perline=6)](https://skillicons.dev)
 
 ## 🛠my tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,firebase,docker,figma,eclipse,sqlite,postgres,mysql,postman&perline=6)](https://skillicons.dev)
