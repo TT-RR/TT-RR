@@ -16,7 +16,7 @@
 
 ## ⚡Top Repositories
 [![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=TT-RR&repo=kopipe-kun)](https://github.com/TT-RR/kopipe-kun)
-
+[![Readme Card](https://github-readme-stats-fork.vercel.app/api/pin/?username=TT-RR&repo=tt-rr.com)](https://github.com/TT-RR/tt-rr.com)
 
 
 ## reference README.md
